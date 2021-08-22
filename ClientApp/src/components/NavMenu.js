@@ -63,7 +63,7 @@ export class NavMenu extends Component {
           <li class="nav-item">
             <a class="nav-link" href="https://hackerspace.govhack.org/projects/water_stewards" target="_blank">
               <i class="fas fa-external-link-alt"></i>
-              <span>GovHack</span></a>
+              <span>GovHack Project and Team</span></a>
           </li>
 
         </ul>

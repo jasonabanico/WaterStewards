@@ -14,7 +14,8 @@ export class Layout extends Component {
               <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
                 <i class="fa fa-bars"></i>
               </button>
-              <ul class="navbar-nav ml-auto">
+                        <ul class="navbar-nav">
+                            <h1 class='h3'>Water Stewards Portal - Water Quality Information Without Borders</h1>
               </ul>
             </nav>
 

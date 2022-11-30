@@ -1,4 +1,4 @@
-# Water Stewards
+# GovHack 2021 Entry - Water Stewards
 
 [Watch our video on YouTube.](https://www.youtube.com/watch?v=9WxjCxh8F3Y)
 
